@@ -9,6 +9,7 @@ npm run dev
 # or
 yarn dev
 ```
+Routing on next js when using file and name its must exactly same , incase-sensitive
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
